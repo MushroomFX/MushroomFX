@@ -1,16 +1,18 @@
-### Hi there 👋
+# MushroomFX
 
-<!--
-**MushroomFX/MushroomFX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! My name is **Mushroom** and I am a web developer with a focus on **JavaScript** and **Node.js**. I mainly use **GitHub** to upload and share my projects, so feel free to take a look around.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web Development
+- JavaScript
+- Node.js <sup>[a bit]</sup>
+
+## Some Projects <sup>[actually serious ones]</sup>
+
+- [arr_mngr](https://github.com/MushroomFX/arr_mngr): An JS-lib for managing arrays <sup>**[*WIP*]**</sup>
+- [Chrome+](https://github.com/MushroomFX/Chrome-): Just a little chrome plugin <sup>**[*WIP*]**</sup>
+
+## Contact
+
+Feel free to reach out to me on Discord **[Mushroom#2221](discord.com/users/355012453609897985)** if you have any questions.
