@@ -10,6 +10,7 @@ Hi there! My name is **Mushroom** and I am a web developer with a focus on **Jav
 
 ## Some Projects <sup>[actually serious ones]</sup>
 
+- [mushroomfx.github.io](https://mushroomfx.github.io/): My personal website <sup>**[*WIP*]**</sup>
 - [arr_mngr](https://github.com/MushroomFX/arr_mngr): An JS-lib for managing arrays <sup>**[*WIP*]**</sup>
 - [Chrome+](https://github.com/MushroomFX/Chrome-): Just a little chrome plugin <sup>**[*WIP*]**</sup>
 
