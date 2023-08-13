@@ -18,4 +18,4 @@ Hi there! My name is **Mushroom** and I am a web developer with a focus on **Jav
 
 ## Contact
 
-Feel free to reach out to me on Discord **[Mushroom#1337](discord.com/users/355012453609897985)** if you have any questions.
+Feel free to reach out to me on Discord **[@mushroomfx](discord.com/users/355012453609897985)** if you have any questions.
